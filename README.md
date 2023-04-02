@@ -1,10 +1,15 @@
 # x86 Emulator
 
 CSc 21000 - Assembly Programming
+
 Project #1 - x86 Emulator
+
 Fall 2021
+
 Professor Michael Vulis
+
 Name: Gazi Shahi
+
 
 This is a simple x86 Emulator that was done in C++.
 It is able to read .COM files and print out the values
